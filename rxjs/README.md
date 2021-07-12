@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1 - Observable,
 2 - Subscription
 3 -Pipe
@@ -30,6 +31,8 @@
 30 - What is the difference between Failure and Error?
 31 - What is the difference between Imperative, Functional and Reactive Programming?
 
+=======
+>>>>>>> 44a153c7af235acd459da323544aa188735e8036
 ## 1 - Observable
 
 a function that returns a stream of values
