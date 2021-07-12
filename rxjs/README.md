@@ -1,38 +1,3 @@
-<<<<<<< HEAD
-1 - Observable,
-2 - Subscription
-3 -Pipe
-4 - of
-5 - map
-6 - PLUCK
-7 - filter
-8 - first
-9 - Difference between combineLatest, zip, withLatestFrom?
-10 - switchMap/mergeMap/ConcatMap/exhaustMap
-11 - takeUntil
-12 - TAP
-13 - debounceTime, distinctUntilChanged:
-14 - catchError
-15 - throttleTime(3000):
-16 - What is RxJS ?
-17 - What is Obserable?
-18 - What is the difference between an observable and a promise?
-19 - What is the difference between Cold and Hot Observables ?
-20 - What are RxJS Operators ?
-21 - What is Observers and Subscriptions ?
-22 - What is Subject?
-23 - What is the difference between subject, behaviorSubject, replaySubject, asyncSubject?
-24 - What is Reactive programming and how does it relate to Angular?
-25 - higher-order Observable?
-26 - Schedulers?
-27 - What is the difference between Reactive Programming and Imperative Programming?
-28 - What do you understand by the term Non-Blocking in RxJS?
-29 - What does Asynchronous means in the context of RxJS or Reactive programming?
-30 - What is the difference between Failure and Error?
-31 - What is the difference between Imperative, Functional and Reactive Programming?
-
-=======
->>>>>>> 44a153c7af235acd459da323544aa188735e8036
 ## 1 - Observable
 
 a function that returns a stream of values
