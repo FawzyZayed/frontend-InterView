@@ -6,14 +6,14 @@
 Angular is a TypeScript-based open-source front-end platform
 
 ## 2 - What is the difference between AngularJS and Angular?
-> - AngularJS	
+- AngularJS	
 It is based on MVC architecture	
 It uses JavaScript to build the application	
 Based on controllers concept	
 Not a mobile friendly framework	
 Difficulty in SEO friendly application development	
 
-> - Angular
+- Angular
 This is based on Service/Controller
 Introduced the TypeScript to write the application
 This is a component based UI approach
@@ -23,20 +23,20 @@ Ease to create SEO friendly applications
 ## 3 - What is TypeScript?
 TypeScript is a typed superset of JavaScript
 
-5 - What are the key components of Angular?
-Component
-Modules
-Templates
-Services
-Metadata
+## 5 - What are the key components of Angular?
+> Component
+> Modules
+> Templates
+> Services
+> Metadata
 
-6 - What are directives?
+## 6 - What are directives?
 Directives add behaviour to an existing DOM element
 
-7 - What are components?
+## 7 - What are components?
 Components are the most basic UI building block 
 
-8 - What are the differences between Component and Directive?
+## 8 - What are the differences between Component and Directive?
 - Component
 @Component meta-data annotation
 used to create UI widgets
@@ -51,11 +51,12 @@ design re-usable components
 Many directives can be used per DOM element
 Directive doesn't use View
 
-9 - What is a template?
+## 9 - What is a template?
 A template is a HTML view
 
-10 - What is a module?
+## 10 - What is a module?
 Modules are logical boundaries in application and the application is divided into separate modules to separate the functionality of application.
+```sh
 @NgModule ({
    imports:      [ BrowserModule ],
    declarations (Declare the class types ): [ AppComponent, YourPipe, YourDirective ], 
@@ -64,8 +65,8 @@ Modules are logical boundaries in application and the application is divided int
    providers: []
 })
 export class AppModule { }
-
-11 - What are lifecycle hooks available?
+```
+## 11 - What are lifecycle hooks available?
 Angular application goes through an entire set of processes or has a lifecycle right from its initiation to the end of the application.
 - Constructor: A default method which is called when the class is instantiated.
 - ngOnChanges: Executes when a new component is created
